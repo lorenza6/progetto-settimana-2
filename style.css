@@ -1,0 +1,59 @@
+/* Your styles here */
+.box {
+  background-color: rgb(2, 36, 65);
+}
+.rectangle {
+  background-color: rgb(13, 70, 120);
+  color: aliceblue;
+}
+.button {
+  background-color: orange;
+  text-align: center;
+  color: aliceblue;
+}
+.cube {
+  background-image: url(bg-image.png);
+  text-align: center;
+  color: aliceblue;
+}
+.immage img {
+  border-radius: 40px;
+  margin-right: 20px;
+  text-align: center;
+  width: 300px;
+  height: 250px;
+}
+.immage {
+  border: 1px solid rgb(224, 241, 241);
+  box-shadow: inset 10px 10px 5px #dedede;
+  margin-bottom: 20px;
+}
+.bho {
+  background-image: url(img_9.png);
+  height: 200px;
+  width: 150px;
+}
+main {
+  margin-left: 25px;
+  margin-right: 25px;
+}
+.image2 p {
+  margin-left: 30px;
+}
+.fine {
+  background-color: rgba(13, 70, 120);
+  color: aliceblue;
+  text-align: center;
+}
+.fine a:visited {
+  color: aliceblue;
+}
+.fine2 {
+  background-color: rgb(3, 39, 72);
+}
+main p {
+  text-align: center;
+}
+header p {
+  text-align: 30px;
+}
